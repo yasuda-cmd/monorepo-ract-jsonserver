@@ -1,2 +1,3 @@
 # monorepo-ract-jsonserver
-frontend:
+frontend:react/typescript
+backend:json-erver
